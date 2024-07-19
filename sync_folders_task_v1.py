@@ -7,7 +7,7 @@ Description: This script synchronizes the contents of a source folder with a rep
 Author: Tânia Gonçalves
 Date: 16/07/2024
 Version: 1.0
-Usage: python sync_folders_task.py /path/to/source /path/to/replica syncInterval /path/to/logfile.log
+Usage: python sync_folders_task_v1.py /path/to/source /path/to/replica syncInterval /path/to/logfile.log
 
 """
 
