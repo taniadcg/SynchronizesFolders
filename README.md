@@ -1,6 +1,15 @@
 # Folders Synchronization
 Synchronizes two folders - Test Task
 
+## Table of Contents
+1. [Description](#description)
+2. [Program and Version](#program-and-version)
+3. [Features](#features)
+4. [Usage](#usage)
+5. [Author](#author)
+6. [Contact](#contact)
+7. [FAQ](#faq)
+
 ## Description
 The Folder Synchronizer program ensures that the replica folder is always an exact copy of the source folder.
 
