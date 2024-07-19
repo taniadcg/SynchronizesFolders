@@ -17,7 +17,7 @@ The Folder Synchronizer program ensures that the replica folder is always an exa
 - **Handle Subfolders**: Ensures all subfolders and their contents are synchronized.
 
 ## Usage
-How to run the project:
+How to run the project:  
   python sync_folders_task.py /path/to/source /path/to/replica syncInterval /path/to/logfile.log
   
   **Note:** Make sure to specify the 'syncInterval' in seconds.
